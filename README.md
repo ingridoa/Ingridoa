@@ -1,13 +1,13 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img height="150" src="https://merida.anahuac.mx/hs-fs/hubfs/apreu/Blog/2019%20Blog%20APREU/APREU%20Blog%20-%20Abril%2019/dribbble-shot_6.gif?width=800&name=dribbble-shot_6.gif"  />
 </div>
 
 ###
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
 </div>
 
 ###
@@ -21,6 +21,10 @@
 ###
 
 <p align="left">I'm Ingrid Oñate from Chile.<br><br>- 🔭 I am working as a freelancer.<br>- 📚 Currently I finished my course as Front-End Application Developer.<br>- ⚡ In my free time I dedicate myself to seek new challenges, studies and practices that allow me a better performance in the services provided.</p>
+
+###
+
+<h4 align="left">My experiences:<br><br>- Management of multidisciplinary teams.<br>- Planning and follow-up.<br>- Responsible for the budget in projects.<br>- Continuous improvement associated to processes.</h4>
 
 ###
 
@@ -50,6 +54,29 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
+</div>
+
+###
+
+<p align="left">Estudios<br><br>- Degree in Computer Science Engineering, INACAP<br>- Front-End Developer, High Expertise</p>
+
+###
+
+<p align="left">Hello World!!</p>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</div>
+
+###
+
+<p align="left">Hello World!!</p>
 
 ###
