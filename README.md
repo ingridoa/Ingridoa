@@ -50,7 +50,7 @@
 
 ###
 
-<h3 align="left">Completed Studies</h3>
+<h3 align="left">Education</h3>
 
 ###
 
@@ -58,7 +58,7 @@
 
 ###
 
-<h3 align="left">Contact me at</h3>
+<h3 align="left">Contact me and tell about your project!</h3>
 
 ###
 
