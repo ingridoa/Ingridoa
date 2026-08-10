@@ -62,6 +62,10 @@
 
 ###
 
+<p align="left">- Diplomado de AI, UDD<br>- Enfocado a negocios Empresariales, High Expertise</p>
+
+###
+
 <h3 align="left">Contact me and tell about your project!</h3>
 
 ###
